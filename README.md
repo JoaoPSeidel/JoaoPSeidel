@@ -11,10 +11,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <a href="https://github.com/joaopseidel/github-readme-stats"><br>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaopseidel&show_icons=true&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=joaopseidel&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/joaopseidel/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopseidel&layout=compact&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopseidel&layout=compact&theme=tokyonight" />
 </a>
 
 <div><br>
